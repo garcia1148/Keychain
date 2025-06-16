@@ -1,4 +1,4 @@
-This repository contains the material developed for the educational game "Keychain Robotics Game", part of the course *Automation in Manufacturing Systems*. The goal was to create an interactive and engaging experience to teach robotics concepts using a collaborative UR robot.
+This repository contains the material developed for the educational game "Keychain Robotics Game". The goal was to create an interactive and engaging experience to teach robotics concepts using a collaborative UR robot.
 
 ## 📂 Repository Contents
 
